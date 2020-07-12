@@ -1,0 +1,23 @@
+title: ardock
+owner: A.R.D.
+email: skulleaglesnake@gmail.com
+description: i like anime and linux
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+language: en
+twitter_username:
+github_username: ard225
+disqus_username: 
+# Build settings
+markdown: kramdown
+theme: minima
+
+permalink: /:year/:month/:day/:title/
+
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
+excerpt_separator: <!--more-->
