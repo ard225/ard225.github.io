@@ -1,7 +1,7 @@
 ---
 layout: post
 title:	Okamura's palace
-date:   2020-07-12
+date:   2020-07-13
 categories: JRPG
 ---
 
