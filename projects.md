@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
-current games list
+<ins>current games list</ins>
 1. Persona 3 Fes
 1. Shin Megami tensei 4 
 1. Summer Pockets
