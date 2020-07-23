@@ -9,4 +9,4 @@ the mod mic ive been told sounds like cabbage. but its more convienient than hav
 happy. my ultrawide monitor is okay... i guess. now i use a special little os maybe you have heard of it i use linux. so 
 the ultrawide setup isnt as great as you would think. but it works well enough for what i need. anywho the last thing i got was
 the monitor stand. i used it to put my monitor in portrait mode. and now ive got a great setup. yall have a good one.
-![blog](/_posts/Screenshot.png)
+![blog](./assets/images/Screenshot.png)
