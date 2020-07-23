@@ -10,4 +10,4 @@ happy. my ultrawide monitor is okay... i guess. now i use a special little os ma
 the ultrawide setup isnt as great as you would think. but it works well enough for what i need. anywho the last thing i got was
 the monitor stand. i used it to put my monitor in portrait mode. and now ive got a great setup. yall have a good one.
 
-<img src="./assets/images/Screenshot.png" width="1000" height="750" />
+<img src="./assets/images/Screenshot.png" width="1000"  />
