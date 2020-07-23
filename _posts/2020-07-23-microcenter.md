@@ -1,8 +1,8 @@
 ---
 layout: post
-title:	good day
+title:	microcenter
 date:   2020-07-23
-categories: JRPG
+categories: store
 ---
 today i went to microcenter and i got a monitor stand a mod mic and an ultrawide monitor. im pretty happy. 
 the mod mic ive been told sounds like cabbage. but its more convienient than having a large ball sitting on my desk so im 
