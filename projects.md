@@ -3,7 +3,10 @@ layout: default
 title: Projects
 permalink: /projects/
 ---
+
 <ins>current games list</ins>
+
+1. DemiKids: Light Version
 1. Summer Pockets
 1. Xenoblade Chronicles
 1. Shin Megami tensei 4 
